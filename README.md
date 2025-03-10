@@ -76,8 +76,8 @@ API Response Format:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kalzimkholodros11/Next-MovieRecommenderAI.git
-cd movie-management-ai
+git clone https://github.com/kalzimkholodros/Next-MovieRecommenderAI.git
+cd folder-name
 ```
 
 2. Install dependencies:
