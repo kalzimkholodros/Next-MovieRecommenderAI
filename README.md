@@ -3,6 +3,10 @@
 MovieAI is a modern web application that uses artificial intelligence to provide personalized movie recommendations based on user preferences and natural language descriptions.
 
 
+![Uploading image.png…]()
+
+
+
 ## 🌟 Features
 
 - **Natural Language Processing**: Describe your movie preferences in plain English
